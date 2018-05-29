@@ -1,7 +1,10 @@
 .profil {
-    max-width: 120%;
+    max-width: 60%;
+    float:right;
+    padding-left: 20px;
+    padding-bottom: 20px;
 }
 
 .hlavni {
-    max-width: 100%;
+    width: 100%;
 }
