@@ -1,12 +1,13 @@
 .profil {
     max-width: 60%;
-    float:right;
+    float: right;
     padding-left: 20px;
     padding-bottom: 20px;
 }
 
 .hlavni {
     width: 100%;
+    margin-bottom: 30px;
 }
 
 .nazev {
@@ -16,4 +17,32 @@
 h1 {
     margin-bottom: 1rem;
     margin-top: 1rem;
+}
+
+.zmenseni {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.jmena {
+    background-color:aquamarine;
+    height: 800px;
+}
+
+.herni_plocha {
+    background-color:blueviolet;
+    height: 400px;
+}
+
+maly_chat {
+    height: 200px;
+    background-color:aqua;
+}
+
+.kulaty {
+    max-width: 100%;
+    width: 100px;
+    border-radius: 100%;
+    float: left;
+    
 }
