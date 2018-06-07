@@ -32,9 +32,10 @@ h1 {
 .herni_plocha {
     background-color:blueviolet;
     height: 400px;
+    margin-bottom: 2rem;
 }
 
-maly_chat {
+.maly_chat {
     height: 200px;
     background-color:aqua;
 }
@@ -43,6 +44,5 @@ maly_chat {
     max-width: 100%;
     width: 100px;
     border-radius: 100%;
-    float: left;
     
 }
