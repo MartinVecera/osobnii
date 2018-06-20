@@ -1,0 +1,38 @@
+.box-maly {
+    height: 150px;
+    width: 100%;
+    background-color: aqua;
+}
+
+.box-stredni {
+    height: 150px;
+    width: 100%;
+    background-color: green;
+}
+
+.box-velky {
+    height: 315px;
+    width: 100%;
+    background-color: red;
+}
+
+.box-maly, .box-stredni, .box-velky {
+    margin-bottom: 15px;
+}
+
+main {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.steve {
+    max-width: 100%;
+}
+
+.zmenseni {
+    width: 200px;
+}
+
+.odsazeny-box {
+    padding:15px;
+}
